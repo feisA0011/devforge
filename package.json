@@ -1,0 +1,11 @@
+{
+  "name": "devforge",
+  "version": "3.0.0",
+  "description": "One-click agentic engineer setup — ThinkPad L14 Gen 2 | one0 | Copenhagen",
+  "type": "module",
+  "bin": { "devforge": "./index.js" },
+  "scripts": { "start": "node index.js" },
+  "engines": { "node": ">=18.0.0" },
+  "author": "one0 <feisA0011>",
+  "license": "MIT"
+}
